@@ -1,0 +1,2288 @@
+1582103224640	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile73vVI3"
+1582103225126	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1582103225127	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1582103225127	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1582103225127	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+ExceptionHandler::GenerateDump cloned child 8405
+ExceptionHandler::WaitForContinueSignal waiting for continue signal...
+ExceptionHandler::SendContinueSignalToChild sent continue signal to child
+1582103598685	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileQ7upha"
+1582103599118	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1582103599119	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1582103599119	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1582103599119	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource:///modules/sessionstore/SessionStore.jsm, line 1325: uncaught exception: 2147746065
+1582103600892	Marionette	INFO	Listening on port 32883
+1582103600993	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Parent 8785, Gecko_IOThread] WARNING: pipe error: Broken pipe: file /build/firefox-esr-tpvy6K/firefox-esr-68.2.0esr/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 727
+1582103607223	Marionette	INFO	Stopped listening on port 32883
+1582104543146	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilesAnPM2"
+1582104543579	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1582104543579	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1582104543579	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1582104543580	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource:///modules/sessionstore/SessionStore.jsm, line 1325: uncaught exception: 2147746065
+1582104545311	Marionette	INFO	Listening on port 45087
+1582104545355	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.vishvasnews.com/, line 944: TypeError: document.getElementsByClassName(...)[0] is undefined
+1582104568056	Marionette	INFO	Stopped listening on port 45087
+1582104572240	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileLaE60R"
+1582104572687	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1582104572687	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1582104572687	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1582104572687	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource:///modules/sessionstore/SessionStore.jsm, line 1325: uncaught exception: 2147746065
+1582104574438	Marionette	INFO	Listening on port 35929
+1582104574447	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.vishvasnews.com/, line 944: TypeError: document.getElementsByClassName(...)[0] is undefined
+1582104608799	Marionette	INFO	Stopped listening on port 35929
+1582104616796	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileJec6ss"
+1582104617245	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1582104617245	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1582104617245	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1582104617245	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource:///modules/sessionstore/SessionStore.jsm, line 1325: uncaught exception: 2147746065
+1582104618978	Marionette	INFO	Listening on port 43511
+1582104619010	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.vishvasnews.com/, line 944: TypeError: document.getElementsByClassName(...)[0] is undefined
+1582104672215	Marionette	INFO	Stopped listening on port 43511
+1582104775530	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofiler69501"
+1582104775987	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1582104775987	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1582104775987	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1582104775987	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource:///modules/sessionstore/SessionStore.jsm, line 1325: uncaught exception: 2147746065
+1582104777990	Marionette	INFO	Listening on port 33975
+1582104778038	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.vishvasnews.com/, line 944: TypeError: document.getElementsByClassName(...)[0] is undefined
+JavaScript error: https://www.vishvasnews.com/english/, line 1034: TypeError: document.getElementsByClassName(...)[0] is undefined
+1582105769479	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileRf3bxu"
+1582105769925	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1582105769925	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1582105769925	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1582105769925	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource:///modules/sessionstore/SessionStore.jsm, line 1325: uncaught exception: 2147746065
+1582105771701	Marionette	INFO	Listening on port 37477
+1582105771787	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.vishvasnews.com/, line 944: TypeError: document.getElementsByClassName(...)[0] is undefined
+JavaScript error: https://www.vishvasnews.com/english/, line 1034: TypeError: document.getElementsByClassName(...)[0] is undefined
+JavaScript error: https://www.vishvasnews.com/, line 944: TypeError: document.getElementsByClassName(...)[0] is undefined
+1582105826785	Marionette	INFO	Stopped listening on port 37477
+JavaScript error: resource://gre/modules/osfile/osfile_async_front.jsm, line 426: Error: OS.File has been shut down. Rejecting post to stat
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+console.warn: "Error while detaching the thread front: 'detach' request packet to 'server1.conn0.child1/context18' can't be sent as the connection is closed."
+1582105830584	Marionette	INFO	Stopped listening on port 33975
+1582105848730	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilen4YPZE"
+1582105849208	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1582105849209	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1582105849209	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1582105849209	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource:///modules/sessionstore/SessionStore.jsm, line 1325: uncaught exception: 2147746065
+1582105850992	Marionette	INFO	Listening on port 41815
+1582105851039	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.vishvasnews.com/, line 944: TypeError: document.getElementsByClassName(...)[0] is undefined
+JavaScript error: https://www.vishvasnews.com/english/, line 1036: TypeError: document.getElementsByClassName(...)[0] is undefined
+JavaScript error: https://www.vishvasnews.com/, line 944: TypeError: document.getElementsByClassName(...)[0] is undefined
+1582105946868	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileVt87yp"
+1582105947324	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1582105947324	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1582105947324	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1582105947324	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource:///modules/sessionstore/SessionStore.jsm, line 1325: uncaught exception: 2147746065
+1582105949057	Marionette	INFO	Listening on port 35045
+1582105949077	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.vishvasnews.com/, line 944: TypeError: document.getElementsByClassName(...)[0] is undefined
+JavaScript error: https://www.vishvasnews.com/english/, line 1034: TypeError: document.getElementsByClassName(...)[0] is undefined
+JavaScript error: https://cdn.ampproject.org/rtv/032002112037430/amp4ads-v0.js, line 27: Error: Failed to load: https://tpc.googlesyndication.com/simgad/9276024198906123809/downsize_200k_v1?sqp=4sqPyQSUAUKRAQgAEhQNzczMPhUAAABAHQAAAAAlAAAAABgAIgoNAACAPxUAAIA_Kk8IWhABHQAAtEIgASgBMAY4A0CAwtcvSABQAFgAYFpwAngAgAEAiAEAkAEAnQEAAIA_oAEAqAEAsAGAreIEuAH___________8BxQEtsp0-MhgIqAEQWBgBIAEtAAAAPzCoAThYRQAAgD8&rs=AOga4ql7mM6vJLJMKBr8JARpAE3b44y33A​​​
+JavaScript error: https://cdn.ampproject.org/rtv/032002112037430/amp4ads-v0.js, line 27: Error: Failed to load: https://tpc.googlesyndication.com/pagead/images/abg/icon.png​​​
+JavaScript error: https://cdn.ampproject.org/rtv/032002112037430/amp4ads-v0.js, line 27: Error: Failed to load: https://tpc.googlesyndication.com/pagead/images/abg/hi.png​​​
+JavaScript error: https://cdn.ampproject.org/rtv/032002112037430/amp4ads-v0.js, line 27: Error: Failed to load: https://tpc.googlesyndication.com/simgad/40933678460698624​​​
+JavaScript error: https://www.vishvasnews.com/, line 944: TypeError: document.getElementsByClassName(...)[0] is undefined
+JavaScript error: https://cdn.ampproject.org/rtv/032002112037430/amp4ads-v0.js, line 27: Error: Failed to load: https://tpc.googlesyndication.com/pagead/images/abg/icon.png​​​
+JavaScript error: https://cdn.ampproject.org/rtv/032002112037430/amp4ads-v0.js, line 27: Error: Failed to load: https://tpc.googlesyndication.com/simgad/40933678460698624​​​
+JavaScript error: https://cdn.ampproject.org/rtv/032002112037430/amp4ads-v0.js, line 27: Error: Failed to load: https://tpc.googlesyndication.com/pagead/images/abg/hi.png​​​
+JavaScript error: https://cdn.ampproject.org/rtv/032002112037430/amp4ads-v0.js, line 27: Error: Failed to load: https://tpc.googlesyndication.com/simgad/9276024198906123809/downsize_200k_v1?sqp=4sqPyQSUAUKRAQgAEhQNzczMPhUAAABAHQAAAAAlAAAAABgAIgoNAACAPxUAAIA_Kk8IWhABHQAAtEIgASgBMAY4A0CAwtcvSABQAFgAYFpwAngAgAEAiAEAkAEAnQEAAIA_oAEAqAEAsAGAreIEuAH___________8BxQEtsp0-MhgIqAEQWBgBIAEtAAAAPzCoAThYRQAAgD8&rs=AOga4ql7mM6vJLJMKBr8JARpAE3b44y33A​​​
+JavaScript error: https://www.vishvasnews.com/english/, line 1034: TypeError: document.getElementsByClassName(...)[0] is undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: https://www.vishvasnews.com/, line 944: TypeError: document.getElementsByClassName(...)[0] is undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: https://www.vishvasnews.com/english/, line 1034: TypeError: document.getElementsByClassName(...)[0] is undefined
+JavaScript error: https://cdn.ampproject.org/rtv/032002112037430/amp4ads-v0.js, line 27: Error: Failed to load: https://tpc.googlesyndication.com/simgad/3566568905740204108?sqp=4sqPyQQ7QjkqNxABHQAAtEIgASgBMAk4A0DwkwlYAWBfcAKAAQGIAQGdAQAAgD-oAQGwAYCt4gS4AV_FAS2ynT4&rs=AOga4qljzglHr3KeXoNWHZwEWmfCO9hUaw​​​
+JavaScript error: https://cdn.ampproject.org/rtv/032002112037430/amp4ads-v0.js, line 27: Error: Failed to load: https://tpc.googlesyndication.com/pagead/images/abg/icon.png​​​
+JavaScript error: https://cdn.ampproject.org/rtv/032002112037430/amp4ads-v0.js, line 27: Error: Failed to load: https://tpc.googlesyndication.com/pagead/images/abg/hi.png​​​
+JavaScript error: , line 0: uncaught exception: undefined
+1582106049840	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile3BnX5l"
+1582106050309	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1582106050310	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1582106050310	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1582106050310	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource:///modules/sessionstore/SessionStore.jsm, line 1325: uncaught exception: 2147746065
+1582106052063	Marionette	INFO	Listening on port 34729
+1582106052149	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.vishvasnews.com/, line 944: TypeError: document.getElementsByClassName(...)[0] is undefined
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x530005,name=PHttpChannel::Msg_Cancel) Closed channel: cannot send/recv
+
+[Parent 11305, Gecko_IOThread] WARNING: pipe error (128): Connection reset by peer: file /build/firefox-esr-tpvy6K/firefox-esr-68.2.0esr/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 358
+1582106056574	Marionette	INFO	Stopped listening on port 35045
+JavaScript error: https://www.vishvasnews.com/english/, line 1034: TypeError: document.getElementsByClassName(...)[0] is undefined
+JavaScript error: https://cdn.ampproject.org/rtv/012001281851410/amp4ads-v0.js, line 27: Error: Failed to load: https://tpc.googlesyndication.com/pagead/images/abg/icon.png​​​
+JavaScript error: https://cdn.ampproject.org/rtv/012001281851410/amp4ads-v0.js, line 27: Error: Failed to load: https://tpc.googlesyndication.com/simgad/9276024198906123809/downsize_200k_v1?sqp=4sqPyQSUAUKRAQgAEhQNzczMPhUAAABAHQAAAAAlAAAAABgAIgoNAACAPxUAAIA_Kk8IWhABHQAAtEIgASgBMAY4A0CAwtcvSABQAFgAYFpwAngAgAEAiAEAkAEAnQEAAIA_oAEAqAEAsAGAreIEuAH___________8BxQEtsp0-MhgIqAEQWBgBIAEtAAAAPzCoAThYRQAAgD8&rs=AOga4ql7mM6vJLJMKBr8JARpAE3b44y33A​​​
+JavaScript error: https://cdn.ampproject.org/rtv/012001281851410/amp4ads-v0.js, line 27: Error: Failed to load: https://tpc.googlesyndication.com/pagead/images/abg/hi.png​​​
+JavaScript error: https://cdn.ampproject.org/rtv/012001281851410/amp4ads-v0.js, line 27: Error: Failed to load: https://tpc.googlesyndication.com/simgad/40933678460698624​​​
+JavaScript error: https://www.vishvasnews.com/, line 944: TypeError: document.getElementsByClassName(...)[0] is undefined
+JavaScript error: https://www.vishvasnews.com/english/, line 1036: TypeError: document.getElementsByClassName(...)[0] is undefined
+JavaScript error: https://cdn.ampproject.org/rtv/012001281851410/amp4ads-v0.js, line 27: Error: Failed to load: https://tpc.googlesyndication.com/simgad/9276024198906123809/downsize_200k_v1?sqp=4sqPyQSUAUKRAQgAEhQNzczMPhUAAABAHQAAAAAlAAAAABgAIgoNAACAPxUAAIA_Kk8IWhABHQAAtEIgASgBMAY4A0CAwtcvSABQAFgAYFpwAngAgAEAiAEAkAEAnQEAAIA_oAEAqAEAsAGAreIEuAH___________8BxQEtsp0-MhgIqAEQWBgBIAEtAAAAPzCoAThYRQAAgD8&rs=AOga4ql7mM6vJLJMKBr8JARpAE3b44y33A​​​
+JavaScript error: https://cdn.ampproject.org/rtv/012001281851410/amp4ads-v0.js, line 27: Error: Failed to load: https://tpc.googlesyndication.com/pagead/images/abg/hi.png​​​
+JavaScript error: https://cdn.ampproject.org/rtv/012001281851410/amp4ads-v0.js, line 27: Error: Failed to load: https://tpc.googlesyndication.com/simgad/40933678460698624​​​
+JavaScript error: https://cdn.ampproject.org/rtv/012001281851410/amp4ads-v0.js, line 27: Error: Failed to load: https://tpc.googlesyndication.com/pagead/images/abg/icon.png​​​
+JavaScript error: https://www.vishvasnews.com/, line 944: TypeError: document.getElementsByClassName(...)[0] is undefined
+JavaScript error: https://cdn.ampproject.org/rtv/012001281851410/amp4ads-v0.js, line 27: Error: Failed to load: https://tpc.googlesyndication.com/pagead/images/abg/icon.png​​​
+JavaScript error: https://cdn.ampproject.org/rtv/012001281851410/amp4ads-v0.js, line 27: Error: Failed to load: https://tpc.googlesyndication.com/simgad/40933678460698624​​​
+JavaScript error: https://cdn.ampproject.org/rtv/012001281851410/amp4ads-v0.js, line 27: Error: Failed to load: https://tpc.googlesyndication.com/simgad/9276024198906123809/downsize_200k_v1?sqp=4sqPyQSUAUKRAQgAEhQNzczMPhUAAABAHQAAAAAlAAAAABgAIgoNAACAPxUAAIA_Kk8IWhABHQAAtEIgASgBMAY4A0CAwtcvSABQAFgAYFpwAngAgAEAiAEAkAEAnQEAAIA_oAEAqAEAsAGAreIEuAH___________8BxQEtsp0-MhgIqAEQWBgBIAEtAAAAPzCoAThYRQAAgD8&rs=AOga4ql7mM6vJLJMKBr8JARpAE3b44y33A​​​
+JavaScript error: https://cdn.ampproject.org/rtv/012001281851410/amp4ads-v0.js, line 27: Error: Failed to load: https://tpc.googlesyndication.com/pagead/images/abg/hi.png​​​
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: https://www.vishvasnews.com/english/, line 1034: TypeError: document.getElementsByClassName(...)[0] is undefined
+JavaScript error: https://www.vishvasnews.com/, line 944: TypeError: document.getElementsByClassName(...)[0] is undefined
+JavaScript error: https://cdn.ampproject.org/rtv/012001281851410/amp4ads-v0.js, line 27: Error: Failed to load: https://tpc.googlesyndication.com/simgad/40933678460698624​​​
+JavaScript error: https://cdn.ampproject.org/rtv/012001281851410/amp4ads-v0.js, line 27: Error: Failed to load: https://tpc.googlesyndication.com/pagead/images/abg/icon.png​​​
+JavaScript error: https://cdn.ampproject.org/rtv/012001281851410/amp4ads-v0.js, line 27: Error: Failed to load: https://tpc.googlesyndication.com/pagead/images/abg/hi.png​​​
+JavaScript error: https://cdn.ampproject.org/rtv/012001281851410/amp4ads-v0.js, line 27: Error: Failed to load: https://tpc.googlesyndication.com/simgad/9276024198906123809/downsize_200k_v1?sqp=4sqPyQSUAUKRAQgAEhQNzczMPhUAAABAHQAAAAAlAAAAABgAIgoNAACAPxUAAIA_Kk8IWhABHQAAtEIgASgBMAY4A0CAwtcvSABQAFgAYFpwAngAgAEAiAEAkAEAnQEAAIA_oAEAqAEAsAGAreIEuAH___________8BxQEtsp0-MhgIqAEQWBgBIAEtAAAAPzCoAThYRQAAgD8&rs=AOga4ql7mM6vJLJMKBr8JARpAE3b44y33A​​​
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: https://www.vishvasnews.com/english/, line 1034: TypeError: document.getElementsByClassName(...)[0] is undefined
+JavaScript error: https://www.vishvasnews.com/, line 944: TypeError: document.getElementsByClassName(...)[0] is undefined
+[Child 11671, Chrome_ChildThread] WARNING: pipe error: Broken pipe: file /build/firefox-esr-tpvy6K/firefox-esr-68.2.0esr/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 727
+[Child 11671, Chrome_ChildThread] WARNING: pipe error: Broken pipe: file /build/firefox-esr-tpvy6K/firefox-esr-68.2.0esr/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 727
+[Child 11671, Chrome_ChildThread] WARNING: pipe error: Broken pipe: file /build/firefox-esr-tpvy6K/firefox-esr-68.2.0esr/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 727
+[Child 11671, Chrome_ChildThread] WARNING: pipe error: Broken pipe: file /build/firefox-esr-tpvy6K/firefox-esr-68.2.0esr/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 727
+[Child 11671, Chrome_ChildThread] WARNING: pipe error: Broken pipe: file /build/firefox-esr-tpvy6K/firefox-esr-68.2.0esr/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 727
+[Child 11671, Chrome_ChildThread] WARNING: pipe error: Broken pipe: file /build/firefox-esr-tpvy6K/firefox-esr-68.2.0esr/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 727
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1582106098248	Marionette	INFO	Stopped listening on port 34729
+JavaScript error: https://www.vishvasnews.com/english/, line 1036: TypeError: document.getElementsByClassName(...)[0] is undefined
+JavaScript error: https://www.vishvasnews.com/, line 944: TypeError: document.getElementsByClassName(...)[0] is undefined
+1582106107418	Marionette	INFO	Stopped listening on port 41815
+1582106260097	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilelJ3es5"
+1582106260546	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1582106260546	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1582106260546	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1582106260546	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource:///modules/sessionstore/SessionStore.jsm, line 1325: uncaught exception: 2147746065
+1582106262308	Marionette	INFO	Listening on port 37505
+1582106262407	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.vishvasnews.com/, line 944: TypeError: document.getElementsByClassName(...)[0] is undefined
+JavaScript error: https://cdn.ampproject.org/rtv/012001281851410/amp4ads-v0.js, line 27: Error: Failed to load: https://tpc.googlesyndication.com/simgad/12331415164755651739​​​
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: https://www.vishvasnews.com/english/, line 1034: TypeError: document.getElementsByClassName(...)[0] is undefined
+JavaScript error: https://www.vishvasnews.com/english/politics/, line 806: TypeError: document.getElementsByClassName(...)[0] is undefined
+1582106363033	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilewR1EVP"
+1582106363562	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1582106363562	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1582106363563	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1582106363563	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource:///modules/sessionstore/SessionStore.jsm, line 1325: uncaught exception: 2147746065
+1582106365481	Marionette	INFO	Listening on port 37101
+1582106365541	Marionette	WARN	TLS certificate errors will be ignored for this session
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+console.warn: "Error while detaching the thread front: 'detach' request packet to 'server1.conn0.child1/context18' can't be sent as the connection is closed."
+1582106368079	Marionette	INFO	Stopped listening on port 37505
+JavaScript error: https://www.vishvasnews.com/, line 944: TypeError: document.getElementsByClassName(...)[0] is undefined
+JavaScript error: https://www.vishvasnews.com/english/, line 1034: TypeError: document.getElementsByClassName(...)[0] is undefined
+1582106412820	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile9pcPOm"
+1582106413303	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1582106413303	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1582106413304	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1582106413304	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource:///modules/sessionstore/SessionStore.jsm, line 1325: uncaught exception: 2147746065
+1582106415075	Marionette	INFO	Listening on port 39003
+1582106415128	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.vishvasnews.com/, line 944: TypeError: document.getElementsByClassName(...)[0] is undefined
+1582106418268	Marionette	INFO	Stopped listening on port 37101
+JavaScript error: https://www.vishvasnews.com/english/, line 1034: TypeError: document.getElementsByClassName(...)[0] is undefined
+JavaScript error: https://www.vishvasnews.com/english/politics/, line 804: TypeError: document.getElementsByClassName(...)[0] is undefined
+1582106476884	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilepRHrrC"
+1582106476956	Marionette	INFO	Stopped listening on port 39003
+1582106477606	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1582106477606	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1582106477606	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1582106477606	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource:///modules/sessionstore/SessionStore.jsm, line 1325: uncaught exception: 2147746065
+1582106479274	Marionette	INFO	Listening on port 37205
+1582106479304	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.vishvasnews.com/, line 944: TypeError: document.getElementsByClassName(...)[0] is undefined
+JavaScript error: https://www.vishvasnews.com/english/, line 1034: TypeError: document.getElementsByClassName(...)[0] is undefined
+1582106513439	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile49Kk4J"
+1582106513977	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1582106513977	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1582106513977	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1582106513977	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1582106514656	Marionette	INFO	Stopped listening on port 37205
+JavaScript error: resource:///modules/sessionstore/SessionStore.jsm, line 1325: uncaught exception: 2147746065
+1582106516044	Marionette	INFO	Listening on port 34705
+1582106516145	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.vishvasnews.com/, line 944: TypeError: document.getElementsByClassName(...)[0] is undefined
+JavaScript error: https://www.vishvasnews.com/english/, line 1034: TypeError: document.getElementsByClassName(...)[0] is undefined
+Gdk-Message: 19:07:09.932: /usr/lib/firefox-esr/firefox-esr: Fatal IO error 11 (Resource temporarily unavailable) on X server :1.
+
+Gdk-Message: 19:07:09.932: firefox-esr: Fatal IO error 11 (Resource temporarily unavailable) on X server :1.
+
+Exiting due to channel error.
+Exiting due to channel error.
+1582172154399	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileveHXnp"
+1582172154963	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1582172154963	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1582172154964	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1582172154964	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource:///modules/sessionstore/SessionStore.jsm, line 1325: uncaught exception: 2147746065
+1582172156710	Marionette	INFO	Listening on port 40163
+1582172156812	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.vishvasnews.com/, line 944: TypeError: document.getElementsByClassName(...)[0] is undefined
+JavaScript error: https://www.vishvasnews.com/english/, line 1034: TypeError: document.getElementsByClassName(...)[0] is undefined
+1582172201390	Marionette	INFO	Stopped listening on port 40163
+1582172203309	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilenN6fM0"
+1582172203789	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1582172203789	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1582172203790	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1582172203790	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource:///modules/sessionstore/SessionStore.jsm, line 1325: uncaught exception: 2147746065
+1582172205526	Marionette	INFO	Listening on port 36311
+1582172205617	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.vishvasnews.com/, line 944: TypeError: document.getElementsByClassName(...)[0] is undefined
+JavaScript error: https://www.vishvasnews.com/english/, line 1034: TypeError: document.getElementsByClassName(...)[0] is undefined
+1582172249100	Marionette	INFO	Stopped listening on port 36311
+1582172291101	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileJGktUT"
+1582172291583	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1582172291583	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1582172291583	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1582172291583	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource:///modules/sessionstore/SessionStore.jsm, line 1325: uncaught exception: 2147746065
+1582172293321	Marionette	INFO	Listening on port 43605
+1582172293407	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.vishvasnews.com/, line 944: TypeError: document.getElementsByClassName(...)[0] is undefined
+JavaScript error: https://www.vishvasnews.com/english/, line 1034: TypeError: document.getElementsByClassName(...)[0] is undefined
+JavaScript error: https://www.vishvasnews.com/english/politics/, line 804: TypeError: document.getElementsByClassName(...)[0] is undefined
+1582172320629	Marionette	INFO	Stopped listening on port 43605
+1582184240401	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileu0Lo1z"
+1582184240912	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1582184240912	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1582184240913	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1582184240913	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+ExceptionHandler::GenerateDump cloned child 24145ExceptionHandler::WaitForContinueSignal waiting for continue signal...
+
+ExceptionHandler::SendContinueSignalToChild sent continue signal to child
+1582190014973	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileYA8mex"
+1582190015531	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1582190015531	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1582190015531	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1582190015531	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource:///modules/sessionstore/SessionStore.jsm, line 1325: uncaught exception: 2147746065
+1582190017275	Marionette	INFO	Listening on port 32895
+1582190017305	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.vishvasnews.com/, line 944: TypeError: document.getElementsByClassName(...)[0] is undefined
+JavaScript error: https://www.vishvasnews.com/english/, line 1034: TypeError: document.getElementsByClassName(...)[0] is undefined
+JavaScript error: https://www.vishvasnews.com/english/politics/, line 804: TypeError: document.getElementsByClassName(...)[0] is undefined
+1582192534351	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileilOGrI"
+1582192534840	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1582192534840	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1582192534840	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1582192534840	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource:///modules/sessionstore/SessionStore.jsm, line 1325: uncaught exception: 2147746065
+1582192536709	Marionette	INFO	Listening on port 41877
+1582192536757	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.vishvasnews.com/english/politics/, line 804: TypeError: document.getElementsByClassName(...)[0] is undefined
+1582192566946	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileQsFbI4"
+1582192567400	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1582192567400	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1582192567400	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1582192567401	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource:///modules/sessionstore/SessionStore.jsm, line 1325: uncaught exception: 2147746065
+1582192569181	Marionette	INFO	Listening on port 36781
+1582192569252	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.vishvasnews.com/english/politics/, line 804: TypeError: document.getElementsByClassName(...)[0] is undefined
+1582192609613	Marionette	INFO	Stopped listening on port 41877
+1582192611501	Marionette	INFO	Stopped listening on port 36781
+1582192973119	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileDG2lES"
+1582192973604	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1582192973604	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1582192973604	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1582192973605	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource:///modules/sessionstore/SessionStore.jsm, line 1325: uncaught exception: 2147746065
+1582192975510	Marionette	INFO	Listening on port 46387
+1582192975529	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.vishvasnews.com/english/politics/, line 804: TypeError: document.getElementsByClassName(...)[0] is undefined
+JavaScript error: https://www.vishvasnews.com/english/politics/fact-check-this-is-an-old-video-from-rajasthan-has-no-connection-with-assam-nrc/, line 1420: TypeError: document.getElementsByClassName(...)[0] is undefined
+JavaScript error: https://www.vishvasnews.com/english/politics/, line 804: TypeError: document.getElementsByClassName(...)[0] is undefined
+[Parent 37538, Gecko_IOThread] WARNING: pipe error (132): Connection reset by peer: file /build/firefox-esr-tpvy6K/firefox-esr-68.2.0esr/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 358
+1582193003312	Marionette	INFO	Stopped listening on port 46387
+1582193405198	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileIh4CvS"
+1582193405650	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1582193405650	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1582193405650	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1582193405650	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource:///modules/sessionstore/SessionStore.jsm, line 1325: uncaught exception: 2147746065
+1582193407482	Marionette	INFO	Listening on port 32945
+1582193407507	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.vishvasnews.com/english/politics/, line 804: TypeError: document.getElementsByClassName(...)[0] is undefined
+console.warn: "Error while detaching the thread front: 'detach' request packet to 'server1.conn0.child1/context18' can't be sent as the connection is closed."
+1582193553714	Marionette	INFO	Stopped listening on port 32945
+1582193555683	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofiles6Dvoj"
+1582193556161	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1582193556162	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1582193556162	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1582193556162	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource:///modules/sessionstore/SessionStore.jsm, line 1325: uncaught exception: 2147746065
+1582193558022	Marionette	INFO	Listening on port 40281
+1582193558090	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.vishvasnews.com/english/politics/, line 804: TypeError: document.getElementsByClassName(...)[0] is undefined
+console.warn: "Error while detaching the thread front: 'detach' request packet to 'server1.conn0.child1/context18' can't be sent as the connection is closed."
+1582193645836	Marionette	INFO	Stopped listening on port 40281
+1582193647443	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileI3tKV0"
+1582193647912	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1582193647912	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1582193647913	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1582193647913	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource:///modules/sessionstore/SessionStore.jsm, line 1325: uncaught exception: 2147746065
+1582193649819	Marionette	INFO	Listening on port 38689
+1582193649851	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.vishvasnews.com/english/politics/, line 804: TypeError: document.getElementsByClassName(...)[0] is undefined
+1582193716305	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileNhz4cU"
+1582193716820	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1582193716820	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1582193716820	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1582193716820	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource:///modules/sessionstore/SessionStore.jsm, line 1325: uncaught exception: 2147746065
+1582193718766	Marionette	INFO	Listening on port 41095
+1582193718816	Marionette	WARN	TLS certificate errors will be ignored for this session
+1582193720511	Marionette	INFO	Stopped listening on port 38689
+JavaScript error: https://www.vishvasnews.com/english/politics/, line 804: TypeError: document.getElementsByClassName(...)[0] is undefined
+1582193740208	Marionette	INFO	Stopped listening on port 41095
+1582193741890	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilegDg6Fu"
+1582193742390	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1582193742390	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1582193742391	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1582193742391	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource:///modules/sessionstore/SessionStore.jsm, line 1325: uncaught exception: 2147746065
+1582193744214	Marionette	INFO	Listening on port 44569
+1582193744298	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.vishvasnews.com/english/politics/, line 804: TypeError: document.getElementsByClassName(...)[0] is undefined
+1582193856209	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofiletGK8U1"
+1582193856709	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1582193856709	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1582193856709	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1582193856709	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource:///modules/sessionstore/SessionStore.jsm, line 1325: uncaught exception: 2147746065
+1582193858243	Marionette	INFO	Stopped listening on port 44569
+1582193858616	Marionette	INFO	Listening on port 42899
+1582193858626	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.vishvasnews.com/english/politics/, line 804: TypeError: document.getElementsByClassName(...)[0] is undefined
+1582193885557	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilet9IjOK"
+1582193886079	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1582193886079	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1582193886079	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1582193886079	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource:///modules/sessionstore/SessionStore.jsm, line 1325: uncaught exception: 2147746065
+1582193887956	Marionette	INFO	Listening on port 45383
+1582193887975	Marionette	WARN	TLS certificate errors will be ignored for this session
+1582193888441	Marionette	INFO	Stopped listening on port 42899
+JavaScript error: https://www.vishvasnews.com/english/politics/, line 804: TypeError: document.getElementsByClassName(...)[0] is undefined
+console.warn: "Error while detaching the thread front: 'detach' request packet to 'server1.conn0.child1/context18' can't be sent as the connection is closed."
+1582194060802	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile6qSZ7a"
+1582194061365	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1582194061366	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1582194061366	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1582194061366	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource:///modules/sessionstore/SessionStore.jsm, line 1325: uncaught exception: 2147746065
+console.warn: "Error while detaching the thread front: 'detach' request packet to 'server1.conn1.child1/context18' can't be sent as the connection is closed."
+[Parent 39915, Gecko_IOThread] WARNING: pipe error: Broken pipe: file /build/firefox-esr-tpvy6K/firefox-esr-68.2.0esr/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 727
+1582194063285	Marionette	INFO	Stopped listening on port 45383
+1582194063389	Marionette	INFO	Listening on port 33091
+1582194063417	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.vishvasnews.com/english/politics/, line 804: TypeError: document.getElementsByClassName(...)[0] is undefined
+JavaScript error: https://www.vishvasnews.com/english/politics/, line 804: TypeError: document.getElementsByClassName(...)[0] is undefined
+1582194200462	Marionette	INFO	Stopped listening on port 33091
+1582194334761	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilekO1m5S"
+1582194335216	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1582194335217	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1582194335217	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1582194335217	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource:///modules/sessionstore/SessionStore.jsm, line 1325: uncaught exception: 2147746065
+1582194337065	Marionette	INFO	Listening on port 34653
+1582194337074	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.vishvasnews.com/english/politics/, line 804: TypeError: document.getElementsByClassName(...)[0] is undefined
+1582194375409	Marionette	INFO	Stopped listening on port 34653
+1582194380675	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofiletej6Fz"
+1582194381165	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1582194381165	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1582194381165	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1582194381165	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource:///modules/sessionstore/SessionStore.jsm, line 1325: uncaught exception: 2147746065
+1582194382910	Marionette	INFO	Listening on port 38635
+1582194382982	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.vishvasnews.com/english/politics/, line 804: TypeError: document.getElementsByClassName(...)[0] is undefined
+1582194451472	Marionette	INFO	Stopped listening on port 38635
+1582195214583	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileyExybR"
+1582195215178	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1582195215178	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1582195215179	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1582195215179	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource:///modules/sessionstore/SessionStore.jsm, line 1325: uncaught exception: 2147746065
+1582195217109	Marionette	INFO	Listening on port 32785
+1582195217190	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.vishvasnews.com/english/politics/, line 804: TypeError: document.getElementsByClassName(...)[0] is undefined
+1582195230834	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+bail@chrome://marionette/content/sync.js:237:64
+send@https://www.vishvasnews.com/wp-content/themes/vishvasnews-advanced/js/jquery-3.js?ver=20151215:2:80266
+ajax@https://www.vishvasnews.com/wp-content/themes/vishvasnews-advanced/js/jquery-3.js?ver=20151215:2:77118
+w._evalUrl@https://www.vishvasnews.com/wp-content/themes/vishvasnews-advanced/js/jquery-3.js?ver=20151215:2:78210
+Re@https://www.vishvasnews.com/wp-content/themes/vishvasnews-advanced/js/jquery-3.js?ver=20151215:2:47286
+append@https://www.vishvasnews.com/wp-content/themes/vishvasnews-advanced/js/jquery-3.js?ver=20151215:2:48574
+checkAssets/</<@https://www.vishvasnews.com/wp-content/themes/vishvasnews-advanced/js/plt_script.js:39:29
+u@https://www.vishvasnews.com/wp-content/themes/vishvasnews-advanced/js/jquery-3.js?ver=20151215:2:27457
+fireWith@https://www.vishvasnews.com/wp-content/themes/vishvasnews-advanced/js/jquery-3.js?ver=20151215:2:28202
+k@https://www.vishvasnews.com/wp-content/themes/vishvasnews-advanced/js/jquery-3.js?ver=20151215:2:77651
+n/<@https://www.vishvasnews.com/wp-content/themes/vishvasnews-advanced/js/jquery-3.js?ver=20151215:2:79907
+[Parent 42057, Gecko_IOThread] WARNING: pipe error: Broken pipe: file /build/firefox-esr-tpvy6K/firefox-esr-68.2.0esr/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 727
+1582195332779	Marionette	INFO	Stopped listening on port 32785
+1582195335226	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileElBMhe"
+1582195335682	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1582195335682	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1582195335682	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1582195335682	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource:///modules/sessionstore/SessionStore.jsm, line 1325: uncaught exception: 2147746065
+1582195337517	Marionette	INFO	Listening on port 37127
+1582195337537	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.vishvasnews.com/, line 944: TypeError: document.getElementsByClassName(...)[0] is undefined
+JavaScript error: https://www.vishvasnews.com/english/, line 1034: TypeError: document.getElementsByClassName(...)[0] is undefined
+JavaScript error: https://www.vishvasnews.com/english/politics/, line 804: TypeError: document.getElementsByClassName(...)[0] is undefined
+1582195414756	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileSEhzkn"
+1582195415280	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1582195415280	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1582195415281	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1582195415281	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource:///modules/sessionstore/SessionStore.jsm, line 1325: uncaught exception: 2147746065
+1582195416944	Marionette	INFO	Stopped listening on port 37127
+1582195417277	Marionette	INFO	Listening on port 38663
+1582195417368	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.vishvasnews.com/, line 944: TypeError: document.getElementsByClassName(...)[0] is undefined
+JavaScript error: https://www.vishvasnews.com/english/, line 1034: TypeError: document.getElementsByClassName(...)[0] is undefined
+JavaScript error: https://www.vishvasnews.com/english/politics/, line 804: TypeError: document.getElementsByClassName(...)[0] is undefined
+1582195465927	Marionette	INFO	Stopped listening on port 38663
+1582195467713	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile0hxg9l"
+1582195468160	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1582195468160	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1582195468161	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1582195468161	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource:///modules/sessionstore/SessionStore.jsm, line 1325: uncaught exception: 2147746065
+1582195469847	Marionette	INFO	Listening on port 36291
+1582195469922	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.vishvasnews.com/, line 944: TypeError: document.getElementsByClassName(...)[0] is undefined
+JavaScript error: https://www.vishvasnews.com/english/, line 1034: TypeError: document.getElementsByClassName(...)[0] is undefined
+JavaScript error: https://www.vishvasnews.com/english/politics/, line 804: TypeError: document.getElementsByClassName(...)[0] is undefined
+JavaScript error: https://cdn.ampproject.org/rtv/012002112037430/amp4ads-v0.js, line 27: Error: Failed to load: https://tpc.googlesyndication.com/pagead/images/abg/icon.png​​​
+JavaScript error: https://cdn.ampproject.org/rtv/012002112037430/amp4ads-v0.js, line 27: Error: Failed to load: https://tpc.googlesyndication.com/simgad/5621972646663099992/downsize_200k_v1?sqp=4sqPyQSWAUKTAQgAEhQNzczMPhUAAABAHQAAAAAlAAAAABgAIgoNAACAPxUAAIA_Kk8IWhABHQAAtEIgASgBMAY4A0CAwtcvSABQAFgAYFpwAngAgAEAiAEAkAEAnQEAAIA_oAEAqAEAsAGAreIEuAH___________8BxQEtsp0-MhoIqgIQnAEYASABLQAAAD8wqgI4nAFFAACAPw&rs=AOga4qmxaMuGeTeUg2ts0_P3tBHJRp6MHA​​​
+JavaScript error: https://cdn.ampproject.org/rtv/012002112037430/amp4ads-v0.js, line 27: Error: Failed to load: https://tpc.googlesyndication.com/pagead/images/abg/hi.png​​​
+1582195535444	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+bail@chrome://marionette/content/sync.js:237:64
+send@https://www.vishvasnews.com/wp-content/themes/vishvasnews-advanced/js/jquery-3.js?ver=20151215:2:80266
+ajax@https://www.vishvasnews.com/wp-content/themes/vishvasnews-advanced/js/jquery-3.js?ver=20151215:2:77118
+w._evalUrl@https://www.vishvasnews.com/wp-content/themes/vishvasnews-advanced/js/jquery-3.js?ver=20151215:2:78210
+Re@https://www.vishvasnews.com/wp-content/themes/vishvasnews-advanced/js/jquery-3.js?ver=20151215:2:47286
+append@https://www.vishvasnews.com/wp-content/themes/vishvasnews-advanced/js/jquery-3.js?ver=20151215:2:48574
+checkAssets/</<@https://www.vishvasnews.com/wp-content/themes/vishvasnews-advanced/js/plt_script.js:39:29
+u@https://www.vishvasnews.com/wp-content/themes/vishvasnews-advanced/js/jquery-3.js?ver=20151215:2:27457
+fireWith@https://www.vishvasnews.com/wp-content/themes/vishvasnews-advanced/js/jquery-3.js?ver=20151215:2:28202
+k@https://www.vishvasnews.com/wp-content/themes/vishvasnews-advanced/js/jquery-3.js?ver=20151215:2:77651
+n/<@https://www.vishvasnews.com/wp-content/themes/vishvasnews-advanced/js/jquery-3.js?ver=20151215:2:79907
+1582195536169	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+bail@chrome://marionette/content/sync.js:237:64
+send@https://www.vishvasnews.com/wp-content/themes/vishvasnews-advanced/js/jquery-3.js?ver=20151215:2:80266
+ajax@https://www.vishvasnews.com/wp-content/themes/vishvasnews-advanced/js/jquery-3.js?ver=20151215:2:77118
+w._evalUrl@https://www.vishvasnews.com/wp-content/themes/vishvasnews-advanced/js/jquery-3.js?ver=20151215:2:78210
+Re@https://www.vishvasnews.com/wp-content/themes/vishvasnews-advanced/js/jquery-3.js?ver=20151215:2:47286
+append@https://www.vishvasnews.com/wp-content/themes/vishvasnews-advanced/js/jquery-3.js?ver=20151215:2:48574
+checkAssets/</<@https://www.vishvasnews.com/wp-content/themes/vishvasnews-advanced/js/plt_script.js:39:29
+u@https://www.vishvasnews.com/wp-content/themes/vishvasnews-advanced/js/jquery-3.js?ver=20151215:2:27457
+fireWith@https://www.vishvasnews.com/wp-content/themes/vishvasnews-advanced/js/jquery-3.js?ver=20151215:2:28202
+k@https://www.vishvasnews.com/wp-content/themes/vishvasnews-advanced/js/jquery-3.js?ver=20151215:2:77651
+n/<@https://www.vishvasnews.com/wp-content/themes/vishvasnews-advanced/js/jquery-3.js?ver=20151215:2:79907
+1582195536887	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+bail@chrome://marionette/content/sync.js:237:64
+send@https://www.vishvasnews.com/wp-content/themes/vishvasnews-advanced/js/jquery-3.js?ver=20151215:2:80266
+ajax@https://www.vishvasnews.com/wp-content/themes/vishvasnews-advanced/js/jquery-3.js?ver=20151215:2:77118
+w._evalUrl@https://www.vishvasnews.com/wp-content/themes/vishvasnews-advanced/js/jquery-3.js?ver=20151215:2:78210
+Re@https://www.vishvasnews.com/wp-content/themes/vishvasnews-advanced/js/jquery-3.js?ver=20151215:2:47286
+append@https://www.vishvasnews.com/wp-content/themes/vishvasnews-advanced/js/jquery-3.js?ver=20151215:2:48574
+checkAssets/</<@https://www.vishvasnews.com/wp-content/themes/vishvasnews-advanced/js/plt_script.js:39:29
+u@https://www.vishvasnews.com/wp-content/themes/vishvasnews-advanced/js/jquery-3.js?ver=20151215:2:27457
+fireWith@https://www.vishvasnews.com/wp-content/themes/vishvasnews-advanced/js/jquery-3.js?ver=20151215:2:28202
+k@https://www.vishvasnews.com/wp-content/themes/vishvasnews-advanced/js/jquery-3.js?ver=20151215:2:77651
+n/<@https://www.vishvasnews.com/wp-content/themes/vishvasnews-advanced/js/jquery-3.js?ver=20151215:2:79907
+1582195537604	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+bail@chrome://marionette/content/sync.js:237:64
+send@https://www.vishvasnews.com/wp-content/themes/vishvasnews-advanced/js/jquery-3.js?ver=20151215:2:80266
+ajax@https://www.vishvasnews.com/wp-content/themes/vishvasnews-advanced/js/jquery-3.js?ver=20151215:2:77118
+w._evalUrl@https://www.vishvasnews.com/wp-content/themes/vishvasnews-advanced/js/jquery-3.js?ver=20151215:2:78210
+Re@https://www.vishvasnews.com/wp-content/themes/vishvasnews-advanced/js/jquery-3.js?ver=20151215:2:47286
+append@https://www.vishvasnews.com/wp-content/themes/vishvasnews-advanced/js/jquery-3.js?ver=20151215:2:48574
+checkAssets/</<@https://www.vishvasnews.com/wp-content/themes/vishvasnews-advanced/js/plt_script.js:39:29
+u@https://www.vishvasnews.com/wp-content/themes/vishvasnews-advanced/js/jquery-3.js?ver=20151215:2:27457
+fireWith@https://www.vishvasnews.com/wp-content/themes/vishvasnews-advanced/js/jquery-3.js?ver=20151215:2:28202
+k@https://www.vishvasnews.com/wp-content/themes/vishvasnews-advanced/js/jquery-3.js?ver=20151215:2:77651
+n/<@https://www.vishvasnews.com/wp-content/themes/vishvasnews-advanced/js/jquery-3.js?ver=20151215:2:79907
+1582195538324	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+bail@chrome://marionette/content/sync.js:237:64
+send@https://www.vishvasnews.com/wp-content/themes/vishvasnews-advanced/js/jquery-3.js?ver=20151215:2:80266
+ajax@https://www.vishvasnews.com/wp-content/themes/vishvasnews-advanced/js/jquery-3.js?ver=20151215:2:77118
+w._evalUrl@https://www.vishvasnews.com/wp-content/themes/vishvasnews-advanced/js/jquery-3.js?ver=20151215:2:78210
+Re@https://www.vishvasnews.com/wp-content/themes/vishvasnews-advanced/js/jquery-3.js?ver=20151215:2:47286
+append@https://www.vishvasnews.com/wp-content/themes/vishvasnews-advanced/js/jquery-3.js?ver=20151215:2:48574
+checkAssets/</<@https://www.vishvasnews.com/wp-content/themes/vishvasnews-advanced/js/plt_script.js:39:29
+u@https://www.vishvasnews.com/wp-content/themes/vishvasnews-advanced/js/jquery-3.js?ver=20151215:2:27457
+fireWith@https://www.vishvasnews.com/wp-content/themes/vishvasnews-advanced/js/jquery-3.js?ver=20151215:2:28202
+k@https://www.vishvasnews.com/wp-content/themes/vishvasnews-advanced/js/jquery-3.js?ver=20151215:2:77651
+n/<@https://www.vishvasnews.com/wp-content/themes/vishvasnews-advanced/js/jquery-3.js?ver=20151215:2:79907
+1582195539041	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+bail@chrome://marionette/content/sync.js:237:64
+send@https://www.vishvasnews.com/wp-content/themes/vishvasnews-advanced/js/jquery-3.js?ver=20151215:2:80266
+ajax@https://www.vishvasnews.com/wp-content/themes/vishvasnews-advanced/js/jquery-3.js?ver=20151215:2:77118
+w._evalUrl@https://www.vishvasnews.com/wp-content/themes/vishvasnews-advanced/js/jquery-3.js?ver=20151215:2:78210
+Re@https://www.vishvasnews.com/wp-content/themes/vishvasnews-advanced/js/jquery-3.js?ver=20151215:2:47286
+append@https://www.vishvasnews.com/wp-content/themes/vishvasnews-advanced/js/jquery-3.js?ver=20151215:2:48574
+checkAssets/</<@https://www.vishvasnews.com/wp-content/themes/vishvasnews-advanced/js/plt_script.js:39:29
+u@https://www.vishvasnews.com/wp-content/themes/vishvasnews-advanced/js/jquery-3.js?ver=20151215:2:27457
+fireWith@https://www.vishvasnews.com/wp-content/themes/vishvasnews-advanced/js/jquery-3.js?ver=20151215:2:28202
+k@https://www.vishvasnews.com/wp-content/themes/vishvasnews-advanced/js/jquery-3.js?ver=20151215:2:77651
+n/<@https://www.vishvasnews.com/wp-content/themes/vishvasnews-advanced/js/jquery-3.js?ver=20151215:2:79907
+1582195539759	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+bail@chrome://marionette/content/sync.js:237:64
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: https://cdn.ampproject.org/rtv/012002112037430/amp4ads-v0.js, line 27: Error: Failed to load: https://tpc.googlesyndication.com/pagead/images/abg/hi.png​​​
+JavaScript error: https://cdn.ampproject.org/rtv/012002112037430/amp4ads-v0.js, line 27: Error: Failed to load: https://tpc.googlesyndication.com/pagead/images/abg/hi.png​​​
+JavaScript error: https://cdn.ampproject.org/rtv/012002112037430/amp4ads-v0.js, line 27: Error: Failed to load: https://tpc.googlesyndication.com/pagead/images/abg/hi.png​​​
+JavaScript error: https://cdn.ampproject.org/rtv/012002112037430/amp4ads-v0.js, line 27: Error: Failed to load: https://tpc.googlesyndication.com/pagead/images/abg/icon.png​​​
+JavaScript error: https://cdn.ampproject.org/rtv/012002112037430/amp4ads-v0.js, line 27: Error: Failed to load: https://tpc.googlesyndication.com/pagead/images/abg/icon.png​​​
+JavaScript error: https://cdn.ampproject.org/rtv/012002112037430/amp4ads-v0.js, line 27: Error: Failed to load: https://tpc.googlesyndication.com/pagead/images/abg/icon.png​​​
+JavaScript error: https://cdn.ampproject.org/rtv/012002112037430/amp4ads-v0.js, line 27: Error: Failed to load: https://tpc.googlesyndication.com/simgad/7591375636067692795?sqp=4sqPyQQ7QjkqNxABHQAAtEIgASgBMAk4A0DwkwlYAWBfcAKAAQGIAQGdAQAAgD-oAQGwAYCt4gS4AV_FAS2ynT4&rs=AOga4qkhK0ABks_qSoV9lvTLNTW0V-wdDA​​​
+JavaScript error: https://www.vishvasnews.com/english/#, line 1034: TypeError: document.getElementsByClassName(...)[0] is undefined
+JavaScript error: https://www.vishvasnews.com/, line 944: TypeError: document.getElementsByClassName(...)[0] is undefined
+JavaScript error: https://tpc.googlesyndication.com/safeframe/1-0-37/html/container.html line 8 > scriptElement, line 9: ReferenceError: buildAttribution is not defined
+JavaScript error: , line 0: uncaught exception: 7
+JavaScript error: , line 0: uncaught exception: undefined
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1582195584937	Marionette	INFO	Stopped listening on port 36291
+JavaScript error: https://www.vishvasnews.com/english/, line 1034: TypeError: document.getElementsByClassName(...)[0] is undefined
+console.warn: "Error while detaching the thread front: 'detach' request packet to 'server1.conn0.child1/context18' can't be sent as the connection is closed."
+1582195590385	Marionette	INFO	Stopped listening on port 32895
+1582195716447	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile3LDNFG"
+1582195716939	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1582195716940	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1582195716940	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1582195716940	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource:///modules/sessionstore/SessionStore.jsm, line 1325: uncaught exception: 2147746065
+1582195718717	Marionette	INFO	Listening on port 44173
+1582195718754	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.vishvasnews.com/, line 944: TypeError: document.getElementsByClassName(...)[0] is undefined
+JavaScript error: https://www.vishvasnews.com/english/, line 1034: TypeError: document.getElementsByClassName(...)[0] is undefined
+JavaScript error: https://www.vishvasnews.com/english/politics/, line 804: TypeError: document.getElementsByClassName(...)[0] is undefined
+JavaScript error: https://www.vishvasnews.com/english/, line 1034: TypeError: document.getElementsByClassName(...)[0] is undefined
+JavaScript error: https://www.vishvasnews.com/english/politics/, line 804: TypeError: document.getElementsByClassName(...)[0] is undefined
+1582263087389	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+bail@chrome://marionette/content/sync.js:237:64
+1583475890863	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilec4xpY8"
+1583475891338	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1583475891338	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1583475891338	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1583475891338	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource:///modules/sessionstore/SessionStore.jsm, line 1325: uncaught exception: 2147746065
+1583475893220	Marionette	INFO	Listening on port 43545
+1583475893272	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Parent 21541, Gecko_IOThread] WARNING: pipe error: Broken pipe: file /build/firefox-esr-tpvy6K/firefox-esr-68.2.0esr/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 727
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x1A0011,name=PBackgroundStorage::Msg_Observe) Channel error: cannot send/recv
+
+1583476138226	Marionette	INFO	Stopped listening on port 43545
+1583476228285	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileDfiNPs"
+1583476228849	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1583476228849	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1583476228850	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1583476228850	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource:///modules/sessionstore/SessionStore.jsm, line 1325: uncaught exception: 2147746065
+1583476230753	Marionette	INFO	Listening on port 42849
+1583476230794	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://www.fakingnews.com/, line 779: ReferenceError: googletag is not defined
+JavaScript error: http://www.fakingnews.com/, line 1949: ReferenceError: googletag is not defined
+JavaScript error: http://www.fakingnews.com/, line 3552: ReferenceError: googletag is not defined
+JavaScript error: http://www.fakingnews.com/, line 4854: ReferenceError: googletag is not defined
+JavaScript error: http://www.fakingnews.com/, line 5220: ReferenceError: googletag is not defined
+JavaScript error: http://www.fakingnews.com/, line 5647: ReferenceError: googletag is not defined
+JavaScript error: http://www.fakingnews.com/, line 6482: ReferenceError: googletag is not defined
+JavaScript error: http://www.fakingnews.com/, line 6502: ReferenceError: googletag is not defined
+JavaScript error: http://www.fakingnews.com/, line 6530: ReferenceError: googletag is not defined
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x530005,name=PHttpChannel::Msg_Cancel) Closed channel: cannot send/recv
+
+1583476326622	Marionette	INFO	Stopped listening on port 42849
+1583476348049	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileHlAq0L"
+1583476348502	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1583476348502	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1583476348502	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1583476348502	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource:///modules/sessionstore/SessionStore.jsm, line 1325: uncaught exception: 2147746065
+1583476350302	Marionette	INFO	Listening on port 43617
+1583476350369	Marionette	WARN	TLS certificate errors will be ignored for this session
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+[Parent 22195, Gecko_IOThread] WARNING: pipe error (139): Connection reset by peer: file /build/firefox-esr-tpvy6K/firefox-esr-68.2.0esr/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 358
+1583476380320	Marionette	INFO	Stopped listening on port 43617
+1583477894856	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileHIuWWB"
+1583477895333	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1583477895333	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1583477895333	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1583477895334	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource:///modules/sessionstore/SessionStore.jsm, line 1325: uncaught exception: 2147746065
+1583477897010	Marionette	INFO	Listening on port 40629
+1583477897062	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.facebook.com/rsrc.php/v3/yy/r/Q-1A_DkBfdp.js?_nc_x=Ij3Wp8lg5Kz, line 3: ReferenceError: __d is not defined
+JavaScript error: https://www.facebook.com/v2.7/plugins/page.php?adapt_container_width=true&app_id=&channel=https%3A%2F%2Fstaticxx.facebook.com%2Fconnect%2Fxd_arbiter.php%3Fversion%3D46%23cb%3Df37d98b2265f926%26domain%3Dwww.fakingnews.com%26origin%3Dhttp%253A%252F%252Fwww.fakingnews.com%252Ff37b1fe8cf7e8fe%26relation%3Dparent.parent&container_width=270&hide_cover=false&href=https%3A%2F%2Fwww.facebook.com%2Ffakingnews&locale=en_GB&sdk=joey&show_facepile=true&small_header=false, line 7: ReferenceError: requireLazy is not defined
+JavaScript error: https://www.facebook.com/v2.7/plugins/page.php?adapt_container_width=true&app_id=&channel=https%3A%2F%2Fstaticxx.facebook.com%2Fconnect%2Fxd_arbiter.php%3Fversion%3D46%23cb%3Df37d98b2265f926%26domain%3Dwww.fakingnews.com%26origin%3Dhttp%253A%252F%252Fwww.fakingnews.com%252Ff37b1fe8cf7e8fe%26relation%3Dparent.parent&container_width=270&hide_cover=false&href=https%3A%2F%2Fwww.facebook.com%2Ffakingnews&locale=en_GB&sdk=joey&show_facepile=true&small_header=false, line 8: ReferenceError: requireLazy is not defined
+[Parent 22526, Gecko_IOThread] WARNING: pipe error: Broken pipe: file /build/firefox-esr-tpvy6K/firefox-esr-68.2.0esr/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 727
+[Parent 22526, Gecko_IOThread] WARNING: pipe error: Broken pipe: file /build/firefox-esr-tpvy6K/firefox-esr-68.2.0esr/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 727
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1583477981303	Marionette	INFO	Stopped listening on port 40629
+1583478898110	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileH1iROl"
+1583478898579	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1583478898579	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1583478898579	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1583478898579	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource:///modules/sessionstore/SessionStore.jsm, line 1325: uncaught exception: 2147746065
+1583478900376	Marionette	INFO	Listening on port 43109
+1583478900418	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://www.fakingnews.com/, line 779: ReferenceError: googletag is not defined
+JavaScript error: http://www.fakingnews.com/, line 1949: ReferenceError: googletag is not defined
+JavaScript error: http://www.fakingnews.com/, line 3552: ReferenceError: googletag is not defined
+JavaScript error: http://www.fakingnews.com/, line 4854: ReferenceError: googletag is not defined
+JavaScript error: http://www.fakingnews.com/, line 5220: ReferenceError: googletag is not defined
+JavaScript error: http://www.fakingnews.com/, line 5647: ReferenceError: googletag is not defined
+JavaScript error: http://www.fakingnews.com/, line 6482: ReferenceError: googletag is not defined
+JavaScript error: http://www.fakingnews.com/, line 6502: ReferenceError: googletag is not defined
+JavaScript error: http://www.fakingnews.com/, line 6530: ReferenceError: googletag is not defined
+1583479524013	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileHrfN2o"
+1583479524485	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1583479524486	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1583479524486	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1583479524486	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+console.warn: "Error while detaching the thread front: 'detach' request packet to 'server1.conn0.child1/context18' can't be sent as the connection is closed."
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x530005,name=PHttpChannel::Msg_Cancel) Closed channel: cannot send/recv
+
+[Parent 22876, Gecko_IOThread] WARNING: pipe error (107): Connection reset by peer: file /build/firefox-esr-tpvy6K/firefox-esr-68.2.0esr/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 358
+1583479525176	Marionette	INFO	Stopped listening on port 43109
+JavaScript error: resource:///modules/sessionstore/SessionStore.jsm, line 1325: uncaught exception: 2147746065
+1583479526376	Marionette	INFO	Listening on port 34207
+1583479526424	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.facebook.com/rsrc.php/v3/yy/r/Q-1A_DkBfdp.js?_nc_x=Ij3Wp8lg5Kz, line 3: ReferenceError: __d is not defined
+JavaScript error: https://www.facebook.com/v2.7/plugins/page.php?adapt_container_width=true&app_id=&channel=https%3A%2F%2Fstaticxx.facebook.com%2Fconnect%2Fxd_arbiter.php%3Fversion%3D46%23cb%3Df3b0fb3662278f6%26domain%3Dwww.fakingnews.com%26origin%3Dhttp%253A%252F%252Fwww.fakingnews.com%252Ff91080b911cb62%26relation%3Dparent.parent&container_width=270&hide_cover=false&href=https%3A%2F%2Fwww.facebook.com%2Ffakingnews&locale=en_GB&sdk=joey&show_facepile=true&small_header=false, line 7: ReferenceError: requireLazy is not defined
+1583479658464	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile3tml0N"
+1583479659052	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1583479659052	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1583479659053	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1583479659053	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource:///modules/sessionstore/SessionStore.jsm, line 1325: uncaught exception: 2147746065
+1583479661050	Marionette	INFO	Listening on port 43943
+1583479661084	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: , line 0: uncaught exception: undefined
+Exiting due to channel error.
+1586212620142	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileMhwu4R"
+1586212620684	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1586212620685	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1586212620685	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1586212620685	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource:///modules/sessionstore/SessionStore.jsm, line 1325: uncaught exception: 2147746065
+1586212622750	Marionette	INFO	Listening on port 42327
+1586212622851	Marionette	WARN	TLS certificate errors will be ignored for this session
+1586212636710	Marionette	INFO	Stopped listening on port 42327
+1586212675994	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilekiHj8c"
+1586212676492	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1586212676492	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1586212676492	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1586212676492	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource:///modules/sessionstore/SessionStore.jsm, line 1325: uncaught exception: 2147746065
+1586212678405	Marionette	INFO	Listening on port 40209
+1586212678504	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: https://www.facebook.com/rsrc.php/v3issO4/yV/l/en_GB/pYIsK5IMzs2.js?_nc_x=Ij3Wp8lg5Kz, line 3: ReferenceError: __d is not defined
+JavaScript error: https://www.facebook.com/v2.7/plugins/page.php?adapt_container_width=true&app_id=&channel=https%3A%2F%2Fstaticxx.facebook.com%2Fconnect%2Fxd_arbiter.php%3Fversion%3D46%23cb%3Df3107a7c990956%26domain%3Dwww.fakingnews.com%26origin%3Dhttp%253A%252F%252Fwww.fakingnews.com%252Ff22e95f46ba0066%26relation%3Dparent.parent&container_width=270&hide_cover=false&href=https%3A%2F%2Fwww.facebook.com%2Ffakingnews&locale=en_GB&sdk=joey&show_facepile=true&small_header=false, line 7: ReferenceError: requireLazy is not defined
+JavaScript error: https://www.facebook.com/v2.7/plugins/page.php?adapt_container_width=true&app_id=&channel=https%3A%2F%2Fstaticxx.facebook.com%2Fconnect%2Fxd_arbiter.php%3Fversion%3D46%23cb%3Df3107a7c990956%26domain%3Dwww.fakingnews.com%26origin%3Dhttp%253A%252F%252Fwww.fakingnews.com%252Ff22e95f46ba0066%26relation%3Dparent.parent&container_width=270&hide_cover=false&href=https%3A%2F%2Fwww.facebook.com%2Ffakingnews&locale=en_GB&sdk=joey&show_facepile=true&small_header=false, line 8: ReferenceError: requireLazy is not defined
+JavaScript error: https://www.facebook.com/v2.7/plugins/page.php?adapt_container_width=true&app_id=&channel=https%3A%2F%2Fstaticxx.facebook.com%2Fconnect%2Fxd_arbiter.php%3Fversion%3D46%23cb%3Df3107a7c990956%26domain%3Dwww.fakingnews.com%26origin%3Dhttp%253A%252F%252Fwww.fakingnews.com%252Ff22e95f46ba0066%26relation%3Dparent.parent&container_width=270&hide_cover=false&href=https%3A%2F%2Fwww.facebook.com%2Ffakingnews&locale=en_GB&sdk=joey&show_facepile=true&small_header=false, line 10: ReferenceError: requireLazy is not defined
+JavaScript error: https://www.facebook.com/v2.7/plugins/page.php?adapt_container_width=true&app_id=&channel=https%3A%2F%2Fstaticxx.facebook.com%2Fconnect%2Fxd_arbiter.php%3Fversion%3D46%23cb%3Df3107a7c990956%26domain%3Dwww.fakingnews.com%26origin%3Dhttp%253A%252F%252Fwww.fakingnews.com%252Ff22e95f46ba0066%26relation%3Dparent.parent&container_width=270&hide_cover=false&href=https%3A%2F%2Fwww.facebook.com%2Ffakingnews&locale=en_GB&sdk=joey&show_facepile=true&small_header=false, line 11: ReferenceError: require is not defined
+JavaScript error: http://www.fakingnews.com/politics/new-angry-birds-game-ravi-shankar-prasads-face-birds-31839, line 1: TypeError: $.dfp is not a function
+console.warn: "Error while detaching the thread front: 'detach' request packet to 'server1.conn0.child1/context18' can't be sent as the connection is closed."
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x530005,name=PHttpChannel::Msg_Cancel) Closed channel: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x530005,name=PHttpChannel::Msg_Cancel) Closed channel: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x530005,name=PHttpChannel::Msg_Cancel) Closed channel: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x530005,name=PHttpChannel::Msg_Cancel) Closed channel: cannot send/recv
+
+1586213594062	Marionette	INFO	Stopped listening on port 40209
+1586213639947	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile1uGBJ0"
+1586213640423	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1586213640423	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1586213640423	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1586213640423	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource:///modules/sessionstore/SessionStore.jsm, line 1325: uncaught exception: 2147746065
+1586213642205	Marionette	INFO	Listening on port 41613
+1586213642261	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: https://www.facebook.com/rsrc.php/v3issO4/yV/l/en_GB/pYIsK5IMzs2.js?_nc_x=Ij3Wp8lg5Kz, line 3: ReferenceError: __d is not defined
+JavaScript error: https://www.facebook.com/v2.7/plugins/page.php?adapt_container_width=true&app_id=&channel=https%3A%2F%2Fstaticxx.facebook.com%2Fconnect%2Fxd_arbiter.php%3Fversion%3D46%23cb%3Df21aaa967ffb306%26domain%3Dwww.fakingnews.com%26origin%3Dhttp%253A%252F%252Fwww.fakingnews.com%252Ff270f2b9349ec24%26relation%3Dparent.parent&container_width=270&hide_cover=false&href=https%3A%2F%2Fwww.facebook.com%2Ffakingnews&locale=en_GB&sdk=joey&show_facepile=true&small_header=false, line 7: ReferenceError: requireLazy is not defined
+JavaScript error: https://www.facebook.com/v2.7/plugins/page.php?adapt_container_width=true&app_id=&channel=https%3A%2F%2Fstaticxx.facebook.com%2Fconnect%2Fxd_arbiter.php%3Fversion%3D46%23cb%3Df21aaa967ffb306%26domain%3Dwww.fakingnews.com%26origin%3Dhttp%253A%252F%252Fwww.fakingnews.com%252Ff270f2b9349ec24%26relation%3Dparent.parent&container_width=270&hide_cover=false&href=https%3A%2F%2Fwww.facebook.com%2Ffakingnews&locale=en_GB&sdk=joey&show_facepile=true&small_header=false, line 8: ReferenceError: requireLazy is not defined
+JavaScript error: https://www.facebook.com/v2.7/plugins/page.php?adapt_container_width=true&app_id=&channel=https%3A%2F%2Fstaticxx.facebook.com%2Fconnect%2Fxd_arbiter.php%3Fversion%3D46%23cb%3Df21aaa967ffb306%26domain%3Dwww.fakingnews.com%26origin%3Dhttp%253A%252F%252Fwww.fakingnews.com%252Ff270f2b9349ec24%26relation%3Dparent.parent&container_width=270&hide_cover=false&href=https%3A%2F%2Fwww.facebook.com%2Ffakingnews&locale=en_GB&sdk=joey&show_facepile=true&small_header=false, line 10: ReferenceError: requireLazy is not defined
+JavaScript error: https://www.facebook.com/v2.7/plugins/page.php?adapt_container_width=true&app_id=&channel=https%3A%2F%2Fstaticxx.facebook.com%2Fconnect%2Fxd_arbiter.php%3Fversion%3D46%23cb%3Df21aaa967ffb306%26domain%3Dwww.fakingnews.com%26origin%3Dhttp%253A%252F%252Fwww.fakingnews.com%252Ff270f2b9349ec24%26relation%3Dparent.parent&container_width=270&hide_cover=false&href=https%3A%2F%2Fwww.facebook.com%2Ffakingnews&locale=en_GB&sdk=joey&show_facepile=true&small_header=false, line 11: ReferenceError: require is not defined
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x530005,name=PHttpChannel::Msg_Cancel) Closed channel: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x530005,name=PHttpChannel::Msg_Cancel) Closed channel: cannot send/recv
+
+1586213744348	Marionette	INFO	Stopped listening on port 41613
+1586213752089	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofiledB2Xdb"
+1586213752532	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1586213752533	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1586213752533	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1586213752533	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource:///modules/sessionstore/SessionStore.jsm, line 1325: uncaught exception: 2147746065
+1586213754313	Marionette	INFO	Listening on port 45065
+1586213754396	Marionette	WARN	TLS certificate errors will be ignored for this session
+1586213780350	Marionette	INFO	Stopped listening on port 45065
+1586213810016	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileJMP0tQ"
+1586213810544	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1586213810544	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1586213810544	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1586213810544	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource:///modules/sessionstore/SessionStore.jsm, line 1325: uncaught exception: 2147746065
+1586213812366	Marionette	INFO	Listening on port 39545
+1586213812424	Marionette	WARN	TLS certificate errors will be ignored for this session
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x600027,name=PNecko::Msg_RemoveRequestContext) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x600027,name=PNecko::Msg_RemoveRequestContext) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x600027,name=PNecko::Msg_RemoveRequestContext) Channel closing: too late to send/recv, messages will be lost
+
+1586213945640	Marionette	INFO	Stopped listening on port 39545
+1588975086392	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileGfgxYL"
+1588975087551	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1588975087551	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1588975087551	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1588975087551	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: undefined, line 14: Error: An unexpected error occurred
+JavaScript error: moz-extension://d3d236c6-14e1-4b29-8c3f-9e4ff1fbcae2/lib/picture_in_picture_overrides.js, line 15: Error: Incorrect argument types for pictureInPictureParent.setOverrides.
+JavaScript error: resource:///modules/sessionstore/SessionStore.jsm, line 1325: uncaught exception: 2147746065
+1588975089819	Marionette	INFO	Listening on port 38915
+1588975089901	Marionette	WARN	TLS certificate errors will be ignored for this session
+1588975130883	Marionette	INFO	Stopped listening on port 38915
+1588975142439	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile2YnYsO"
+1588975142929	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1588975142929	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1588975142929	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1588975142929	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: undefined, line 14: Error: An unexpected error occurred
+JavaScript error: moz-extension://f79fa758-0805-4949-b0d9-ad6a3dec51c0/lib/picture_in_picture_overrides.js, line 15: Error: Incorrect argument types for pictureInPictureParent.setOverrides.
+JavaScript error: resource:///modules/sessionstore/SessionStore.jsm, line 1325: uncaught exception: 2147746065
+1588975144741	Marionette	INFO	Listening on port 37303
+1588975144758	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.facebook.com/rsrc.php/v3/yb/r/kyy5yryNf5l.js?_nc_x=Ij3Wp8lg5Kz, line 3: ReferenceError: __d is not defined
+1588975235717	Marionette	INFO	Stopped listening on port 37303
+1588975238211	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileNqEG77"
+1588975238711	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1588975238711	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1588975238712	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1588975238712	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: undefined, line 14: Error: An unexpected error occurred
+JavaScript error: moz-extension://13e538a4-5d73-4137-9143-f3e1a52dc1e7/lib/picture_in_picture_overrides.js, line 15: Error: Incorrect argument types for pictureInPictureParent.setOverrides.
+JavaScript error: resource:///modules/sessionstore/SessionStore.jsm, line 1325: uncaught exception: 2147746065
+1588975240575	Marionette	INFO	Listening on port 44389
+1588975240617	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: https://www.facebook.com/rsrc.php/v3/yb/r/kyy5yryNf5l.js?_nc_x=Ij3Wp8lg5Kz, line 3: ReferenceError: __d is not defined
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+[Child 25992, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-esr-SNKf5O/firefox-esr-68.7.0esr/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 358
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x3500BC,name=PContent::Msg_ScriptError) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x3500BC,name=PContent::Msg_ScriptError) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1588975312295	Marionette	INFO	Stopped listening on port 44389
+1588975332455	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilen3gLgi"
+1588975332986	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1588975332986	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1588975332986	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1588975332987	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: undefined, line 14: Error: An unexpected error occurred
+JavaScript error: moz-extension://94b5d88b-1ae8-4502-b209-c6bf662c09c8/lib/picture_in_picture_overrides.js, line 15: Error: Incorrect argument types for pictureInPictureParent.setOverrides.
+JavaScript error: resource:///modules/sessionstore/SessionStore.jsm, line 1325: uncaught exception: 2147746065
+1588975334785	Marionette	INFO	Listening on port 35193
+1588975334863	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: , line 0: uncaught exception: [object Object]
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1588975337698	Marionette	INFO	Stopped listening on port 35193
+1588975417285	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileG3imXA"
+1588975417761	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1588975417761	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1588975417761	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1588975417761	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: undefined, line 14: Error: An unexpected error occurred
+JavaScript error: moz-extension://ab53c26c-244e-4dc6-bc70-9e63574c0587/lib/picture_in_picture_overrides.js, line 15: Error: Incorrect argument types for pictureInPictureParent.setOverrides.
+JavaScript error: resource:///modules/sessionstore/SessionStore.jsm, line 1325: uncaught exception: 2147746065
+1588975419597	Marionette	INFO	Listening on port 41441
+1588975419691	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.facebook.com/rsrc.php/v3/yb/r/kyy5yryNf5l.js?_nc_x=Ij3Wp8lg5Kz, line 3: ReferenceError: __d is not defined
+JavaScript error: , line 0: uncaught exception: undefined
+1588975517646	Marionette	INFO	Stopped listening on port 41441
+1588975520167	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileCdRvI1"
+1588975520699	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1588975520699	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1588975520700	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1588975520700	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: undefined, line 14: Error: An unexpected error occurred
+JavaScript error: moz-extension://a3040b78-a5e7-4e5b-9604-6a8412972c61/lib/picture_in_picture_overrides.js, line 15: Error: Incorrect argument types for pictureInPictureParent.setOverrides.
+JavaScript error: resource:///modules/sessionstore/SessionStore.jsm, line 1325: uncaught exception: 2147746065
+1588975522677	Marionette	INFO	Listening on port 38319
+1588975522774	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.facebook.com/rsrc.php/v3/yb/r/kyy5yryNf5l.js?_nc_x=Ij3Wp8lg5Kz, line 3: ReferenceError: __d is not defined
+JavaScript error: https://www.facebook.com/rsrc.php/v3ivjG4/yJ/l/en_GB/qgxlyYlMBfR.js?_nc_x=Ij3Wp8lg5Kz, line 3: ReferenceError: __d is not defined
+JavaScript error: https://www.facebook.com/rsrc.php/v3issO4/yc/l/en_GB/zqkZFs6Qk_d.js?_nc_x=Ij3Wp8lg5Kz, line 3: ReferenceError: __d is not defined
+JavaScript error: https://www.facebook.com/rsrc.php/v3/yi/r/N-1xlpRJSIe.js?_nc_x=Ij3Wp8lg5Kz, line 3: ReferenceError: __d is not defined
+JavaScript error: https://www.facebook.com/rsrc.php/v3iCwx4/yV/l/en_GB/483OB1RxXCx.js?_nc_x=Ij3Wp8lg5Kz, line 3: ReferenceError: __d is not defined
+JavaScript error: https://www.facebook.com/rsrc.php/v3/yk/r/n21j-agQgcp.js?_nc_x=Ij3Wp8lg5Kz, line 3: ReferenceError: __d is not defined
+JavaScript error: https://www.facebook.com/rsrc.php/v3/yK/r/9rDvr4CX0X7.js?_nc_x=Ij3Wp8lg5Kz, line 3: ReferenceError: __d is not defined
+JavaScript error: https://www.facebook.com/v2.7/plugins/page.php?adapt_container_width=true&app_id=&channel=https%3A%2F%2Fstaticxx.facebook.com%2Fconnect%2Fxd_arbiter.php%3Fversion%3D46%23cb%3Df23bfeeeec66fa8%26domain%3Dwww.fakingnews.com%26origin%3Dhttp%253A%252F%252Fwww.fakingnews.com%252Ff58412a9f2066%26relation%3Dparent.parent&container_width=270&hide_cover=false&href=https%3A%2F%2Fwww.facebook.com%2Ffakingnews&locale=en_GB&sdk=joey&show_facepile=true&small_header=false, line 18: ReferenceError: requireLazy is not defined
+JavaScript error: https://www.facebook.com/v2.7/plugins/page.php?adapt_container_width=true&app_id=&channel=https%3A%2F%2Fstaticxx.facebook.com%2Fconnect%2Fxd_arbiter.php%3Fversion%3D46%23cb%3Df23bfeeeec66fa8%26domain%3Dwww.fakingnews.com%26origin%3Dhttp%253A%252F%252Fwww.fakingnews.com%252Ff58412a9f2066%26relation%3Dparent.parent&container_width=270&hide_cover=false&href=https%3A%2F%2Fwww.facebook.com%2Ffakingnews&locale=en_GB&sdk=joey&show_facepile=true&small_header=false, line 19: ReferenceError: requireLazy is not defined
+JavaScript error: https://www.facebook.com/v2.7/plugins/page.php?adapt_container_width=true&app_id=&channel=https%3A%2F%2Fstaticxx.facebook.com%2Fconnect%2Fxd_arbiter.php%3Fversion%3D46%23cb%3Df23bfeeeec66fa8%26domain%3Dwww.fakingnews.com%26origin%3Dhttp%253A%252F%252Fwww.fakingnews.com%252Ff58412a9f2066%26relation%3Dparent.parent&container_width=270&hide_cover=false&href=https%3A%2F%2Fwww.facebook.com%2Ffakingnews&locale=en_GB&sdk=joey&show_facepile=true&small_header=false, line 21: ReferenceError: requireLazy is not defined
+JavaScript error: https://www.facebook.com/v2.7/plugins/page.php?adapt_container_width=true&app_id=&channel=https%3A%2F%2Fstaticxx.facebook.com%2Fconnect%2Fxd_arbiter.php%3Fversion%3D46%23cb%3Df23bfeeeec66fa8%26domain%3Dwww.fakingnews.com%26origin%3Dhttp%253A%252F%252Fwww.fakingnews.com%252Ff58412a9f2066%26relation%3Dparent.parent&container_width=270&hide_cover=false&href=https%3A%2F%2Fwww.facebook.com%2Ffakingnews&locale=en_GB&sdk=joey&show_facepile=true&small_header=false, line 22: ReferenceError: require is not defined
+1588975593497	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileRFSWmU"
+1588975594015	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1588975594015	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1588975594015	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1588975594015	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1588975595151	Marionette	INFO	Stopped listening on port 38319
+JavaScript error: undefined, line 14: Error: An unexpected error occurred
+JavaScript error: moz-extension://d771bbf0-2819-411c-b41e-004be1962681/lib/picture_in_picture_overrides.js, line 15: Error: Incorrect argument types for pictureInPictureParent.setOverrides.
+JavaScript error: resource:///modules/sessionstore/SessionStore.jsm, line 1325: uncaught exception: 2147746065
+1588975596162	Marionette	INFO	Listening on port 44807
+1588975596209	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: https://www.facebook.com/rsrc.php/v3/yb/r/kyy5yryNf5l.js?_nc_x=Ij3Wp8lg5Kz, line 3: ReferenceError: __d is not defined
+1588975699603	Marionette	INFO	Stopped listening on port 44807
+1589040253273	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile4M7iu4"
+1589040254044	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1589040254044	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1589040254045	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1589040254045	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: undefined, line 14: Error: An unexpected error occurred
+JavaScript error: moz-extension://1801977e-ade0-4529-8b46-89bdd8683f8a/lib/picture_in_picture_overrides.js, line 15: Error: Incorrect argument types for pictureInPictureParent.setOverrides.
+JavaScript error: resource:///modules/sessionstore/SessionStore.jsm, line 1325: uncaught exception: 2147746065
+1589040256605	Marionette	INFO	Listening on port 41349
+1589040256700	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.facebook.com/rsrc.php/v3/yb/r/kyy5yryNf5l.js?_nc_x=Ij3Wp8lg5Kz, line 3: ReferenceError: __d is not defined
+JavaScript error: https://www.facebook.com/rsrc.php/v3ivjG4/yJ/l/en_GB/qgxlyYlMBfR.js?_nc_x=Ij3Wp8lg5Kz, line 3: ReferenceError: __d is not defined
+JavaScript error: https://www.facebook.com/rsrc.php/v3issO4/yc/l/en_GB/zqkZFs6Qk_d.js?_nc_x=Ij3Wp8lg5Kz, line 3: ReferenceError: __d is not defined
+JavaScript error: https://www.facebook.com/rsrc.php/v3/yi/r/N-1xlpRJSIe.js?_nc_x=Ij3Wp8lg5Kz, line 3: ReferenceError: __d is not defined
+JavaScript error: https://www.facebook.com/rsrc.php/v3iCwx4/yV/l/en_GB/483OB1RxXCx.js?_nc_x=Ij3Wp8lg5Kz, line 3: ReferenceError: __d is not defined
+JavaScript error: https://www.facebook.com/rsrc.php/v3/yk/r/n21j-agQgcp.js?_nc_x=Ij3Wp8lg5Kz, line 3: ReferenceError: __d is not defined
+JavaScript error: https://www.facebook.com/rsrc.php/v3/yK/r/9rDvr4CX0X7.js?_nc_x=Ij3Wp8lg5Kz, line 3: ReferenceError: __d is not defined
+1589040439514	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileGnuole"
+1589040440279	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1589040440279	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1589040440279	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1589040440279	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: undefined, line 14: Error: An unexpected error occurred
+JavaScript error: moz-extension://3ca49c3b-8321-425f-9d7b-d54b9c6aa43f/lib/picture_in_picture_overrides.js, line 15: Error: Incorrect argument types for pictureInPictureParent.setOverrides.
+JavaScript error: resource:///modules/sessionstore/SessionStore.jsm, line 1325: uncaught exception: 2147746065
+1589040442756	Marionette	INFO	Listening on port 37265
+1589040442827	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.facebook.com/rsrc.php/v3/yb/r/kyy5yryNf5l.js?_nc_x=Ij3Wp8lg5Kz, line 3: ReferenceError: __d is not defined
+JavaScript error: , line 0: uncaught exception: undefined
+1589040517382	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+bail@chrome://marionette/content/sync.js:237:64
+1589040569520	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilesxFVFs"
+1589040570537	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1589040570538	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1589040570538	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1589040570538	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: undefined, line 14: Error: An unexpected error occurred
+JavaScript error: moz-extension://11ee7945-dbe4-45c6-a682-9ea3b85b21d4/lib/picture_in_picture_overrides.js, line 15: Error: Incorrect argument types for pictureInPictureParent.setOverrides.
+JavaScript error: resource:///modules/sessionstore/SessionStore.jsm, line 1325: uncaught exception: 2147746065
+1589040573348	Marionette	INFO	Listening on port 44347
+1589040573431	Marionette	WARN	TLS certificate errors will be ignored for this session
+1589040576238	Marionette	INFO	Stopped listening on port 37265
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: https://www.facebook.com/rsrc.php/v3ivjG4/yJ/l/en_GB/qgxlyYlMBfR.js?_nc_x=Ij3Wp8lg5Kz, line 3: ReferenceError: __d is not defined
+1589040669563	Marionette	INFO	Stopped listening on port 44347
+1589040677990	Marionette	INFO	Stopped listening on port 41349
+1589040743812	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileDlBYDf"
+1589040744547	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1589040744547	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1589040744548	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1589040744548	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: undefined, line 14: Error: An unexpected error occurred
+JavaScript error: moz-extension://11c35750-c320-410a-ae61-b1c2931f870e/lib/picture_in_picture_overrides.js, line 15: Error: Incorrect argument types for pictureInPictureParent.setOverrides.
+JavaScript error: resource:///modules/sessionstore/SessionStore.jsm, line 1325: uncaught exception: 2147746065
+1589040746843	Marionette	INFO	Listening on port 33887
+1589040746925	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: , line 0: uncaught exception: undefined
+1589040853527	Marionette	INFO	Stopped listening on port 33887
+1589097909671	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile5xY4Vl"
+1589097910233	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1589097910233	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1589097910234	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1589097910234	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: undefined, line 14: Error: An unexpected error occurred
+JavaScript error: moz-extension://a68785ae-dc08-485e-b698-6704dcddaa1c/lib/picture_in_picture_overrides.js, line 15: Error: Incorrect argument types for pictureInPictureParent.setOverrides.
+JavaScript error: resource:///modules/sessionstore/SessionStore.jsm, line 1325: uncaught exception: 2147746065
+1589097912227	Marionette	INFO	Listening on port 42029
+1589097912283	Marionette	WARN	TLS certificate errors will be ignored for this session
+1589097944219	Marionette	INFO	Stopped listening on port 42029
+1589098407341	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileLSkxg3"
+1589098407871	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1589098407872	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1589098407872	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1589098407872	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: undefined, line 14: Error: An unexpected error occurred
+JavaScript error: moz-extension://77022159-0e14-4200-a3c8-485ecc12b43d/lib/picture_in_picture_overrides.js, line 15: Error: Incorrect argument types for pictureInPictureParent.setOverrides.
+JavaScript error: resource:///modules/sessionstore/SessionStore.jsm, line 1325: uncaught exception: 2147746065
+1589098409821	Marionette	INFO	Listening on port 33795
+1589098409847	Marionette	WARN	TLS certificate errors will be ignored for this session
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1589098431380	Marionette	INFO	Stopped listening on port 33795
+1589098670060	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileIl9Lux"
+1589098670628	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1589098670628	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1589098670628	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1589098670629	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: undefined, line 14: Error: An unexpected error occurred
+JavaScript error: moz-extension://fa3d3a30-5e6c-447b-9f3e-efcd5b9b666c/lib/picture_in_picture_overrides.js, line 15: Error: Incorrect argument types for pictureInPictureParent.setOverrides.
+JavaScript error: resource:///modules/sessionstore/SessionStore.jsm, line 1325: uncaught exception: 2147746065
+1589098672364	Marionette	INFO	Listening on port 38467
+1589098672381	Marionette	WARN	TLS certificate errors will be ignored for this session
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1589098674273	Marionette	INFO	Stopped listening on port 38467
+1589098689669	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileMusDAn"
+1589098690165	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1589098690166	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1589098690166	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1589098690166	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: undefined, line 14: Error: An unexpected error occurred
+JavaScript error: moz-extension://4a875200-b57d-46f2-b13d-139c940dfa18/lib/picture_in_picture_overrides.js, line 15: Error: Incorrect argument types for pictureInPictureParent.setOverrides.
+JavaScript error: resource:///modules/sessionstore/SessionStore.jsm, line 1325: uncaught exception: 2147746065
+1589098692011	Marionette	INFO	Listening on port 41643
+1589098692081	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: https://www.facebook.com/rsrc.php/v3/yb/r/kyy5yryNf5l.js?_nc_x=Ij3Wp8lg5Kz, line 3: ReferenceError: __d is not defined
+JavaScript error: https://www.facebook.com/rsrc.php/v3ivjG4/yJ/l/en_GB/qgxlyYlMBfR.js?_nc_x=Ij3Wp8lg5Kz, line 3: ReferenceError: __d is not defined
+JavaScript error: https://www.facebook.com/rsrc.php/v3issO4/yc/l/en_GB/zqkZFs6Qk_d.js?_nc_x=Ij3Wp8lg5Kz, line 3: ReferenceError: __d is not defined
+JavaScript error: https://www.facebook.com/rsrc.php/v3/yi/r/N-1xlpRJSIe.js?_nc_x=Ij3Wp8lg5Kz, line 3: ReferenceError: __d is not defined
+JavaScript error: https://www.facebook.com/rsrc.php/v3iCwx4/yV/l/en_GB/483OB1RxXCx.js?_nc_x=Ij3Wp8lg5Kz, line 3: ReferenceError: __d is not defined
+JavaScript error: https://www.facebook.com/rsrc.php/v3/yk/r/n21j-agQgcp.js?_nc_x=Ij3Wp8lg5Kz, line 3: ReferenceError: __d is not defined
+JavaScript error: https://www.facebook.com/rsrc.php/v3/yK/r/9rDvr4CX0X7.js?_nc_x=Ij3Wp8lg5Kz, line 3: ReferenceError: __d is not defined
+JavaScript error: https://www.facebook.com/v2.7/plugins/page.php?adapt_container_width=true&app_id=&channel=https%3A%2F%2Fstaticxx.facebook.com%2Fconnect%2Fxd_arbiter.php%3Fversion%3D46%23cb%3Df3451b0b232dec%26domain%3Dwww.fakingnews.com%26origin%3Dhttp%253A%252F%252Fwww.fakingnews.com%252Ff324b8634c6768c%26relation%3Dparent.parent&container_width=270&hide_cover=false&href=https%3A%2F%2Fwww.facebook.com%2Ffakingnews&locale=en_GB&sdk=joey&show_facepile=true&small_header=false, line 18: ReferenceError: requireLazy is not defined
+JavaScript error: https://www.facebook.com/v2.7/plugins/page.php?adapt_container_width=true&app_id=&channel=https%3A%2F%2Fstaticxx.facebook.com%2Fconnect%2Fxd_arbiter.php%3Fversion%3D46%23cb%3Df3451b0b232dec%26domain%3Dwww.fakingnews.com%26origin%3Dhttp%253A%252F%252Fwww.fakingnews.com%252Ff324b8634c6768c%26relation%3Dparent.parent&container_width=270&hide_cover=false&href=https%3A%2F%2Fwww.facebook.com%2Ffakingnews&locale=en_GB&sdk=joey&show_facepile=true&small_header=false, line 19: ReferenceError: requireLazy is not defined
+JavaScript error: https://www.facebook.com/v2.7/plugins/page.php?adapt_container_width=true&app_id=&channel=https%3A%2F%2Fstaticxx.facebook.com%2Fconnect%2Fxd_arbiter.php%3Fversion%3D46%23cb%3Df3451b0b232dec%26domain%3Dwww.fakingnews.com%26origin%3Dhttp%253A%252F%252Fwww.fakingnews.com%252Ff324b8634c6768c%26relation%3Dparent.parent&container_width=270&hide_cover=false&href=https%3A%2F%2Fwww.facebook.com%2Ffakingnews&locale=en_GB&sdk=joey&show_facepile=true&small_header=false, line 21: ReferenceError: requireLazy is not defined
+JavaScript error: https://www.facebook.com/v2.7/plugins/page.php?adapt_container_width=true&app_id=&channel=https%3A%2F%2Fstaticxx.facebook.com%2Fconnect%2Fxd_arbiter.php%3Fversion%3D46%23cb%3Df3451b0b232dec%26domain%3Dwww.fakingnews.com%26origin%3Dhttp%253A%252F%252Fwww.fakingnews.com%252Ff324b8634c6768c%26relation%3Dparent.parent&container_width=270&hide_cover=false&href=https%3A%2F%2Fwww.facebook.com%2Ffakingnews&locale=en_GB&sdk=joey&show_facepile=true&small_header=false, line 22: ReferenceError: require is not defined
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+[Child 36150, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-esr-SNKf5O/firefox-esr-68.7.0esr/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 358
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1589098791840	Marionette	INFO	Stopped listening on port 41643
+1589102305370	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile831hZV"
+1589102305907	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1589102305907	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1589102305907	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1589102305907	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: undefined, line 14: Error: An unexpected error occurred
+JavaScript error: moz-extension://54758cb7-33b3-436d-a1bb-48b8d93db2a2/lib/picture_in_picture_overrides.js, line 15: Error: Incorrect argument types for pictureInPictureParent.setOverrides.
+JavaScript error: resource:///modules/sessionstore/SessionStore.jsm, line 1325: uncaught exception: 2147746065
+1589102307796	Marionette	INFO	Listening on port 39117
+1589102307875	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: https://www.facebook.com/rsrc.php/v3/yb/r/kyy5yryNf5l.js?_nc_x=Ij3Wp8lg5Kz, line 3: ReferenceError: __d is not defined
+JavaScript error: https://www.facebook.com/rsrc.php/v3ivjG4/yJ/l/en_GB/qgxlyYlMBfR.js?_nc_x=Ij3Wp8lg5Kz, line 3: ReferenceError: __d is not defined
+JavaScript error: https://www.facebook.com/rsrc.php/v3issO4/yc/l/en_GB/zqkZFs6Qk_d.js?_nc_x=Ij3Wp8lg5Kz, line 3: ReferenceError: __d is not defined
+JavaScript error: https://www.facebook.com/rsrc.php/v3/yi/r/N-1xlpRJSIe.js?_nc_x=Ij3Wp8lg5Kz, line 3: ReferenceError: __d is not defined
+JavaScript error: https://www.facebook.com/rsrc.php/v3iCwx4/yV/l/en_GB/483OB1RxXCx.js?_nc_x=Ij3Wp8lg5Kz, line 3: ReferenceError: __d is not defined
+JavaScript error: https://www.facebook.com/rsrc.php/v3/yk/r/n21j-agQgcp.js?_nc_x=Ij3Wp8lg5Kz, line 3: ReferenceError: __d is not defined
+JavaScript error: https://www.facebook.com/rsrc.php/v3/yK/r/9rDvr4CX0X7.js?_nc_x=Ij3Wp8lg5Kz, line 3: ReferenceError: __d is not defined
+JavaScript error: https://www.facebook.com/v2.7/plugins/page.php?adapt_container_width=true&app_id=&channel=https%3A%2F%2Fstaticxx.facebook.com%2Fconnect%2Fxd_arbiter.php%3Fversion%3D46%23cb%3Df12eabfb818aca%26domain%3Dwww.fakingnews.com%26origin%3Dhttp%253A%252F%252Fwww.fakingnews.com%252Ff4f29317bc379%26relation%3Dparent.parent&container_width=270&hide_cover=false&href=https%3A%2F%2Fwww.facebook.com%2Ffakingnews&locale=en_GB&sdk=joey&show_facepile=true&small_header=false, line 18: ReferenceError: requireLazy is not defined
+JavaScript error: https://www.facebook.com/v2.7/plugins/page.php?adapt_container_width=true&app_id=&channel=https%3A%2F%2Fstaticxx.facebook.com%2Fconnect%2Fxd_arbiter.php%3Fversion%3D46%23cb%3Df12eabfb818aca%26domain%3Dwww.fakingnews.com%26origin%3Dhttp%253A%252F%252Fwww.fakingnews.com%252Ff4f29317bc379%26relation%3Dparent.parent&container_width=270&hide_cover=false&href=https%3A%2F%2Fwww.facebook.com%2Ffakingnews&locale=en_GB&sdk=joey&show_facepile=true&small_header=false, line 19: ReferenceError: requireLazy is not defined
+JavaScript error: https://www.facebook.com/v2.7/plugins/page.php?adapt_container_width=true&app_id=&channel=https%3A%2F%2Fstaticxx.facebook.com%2Fconnect%2Fxd_arbiter.php%3Fversion%3D46%23cb%3Df12eabfb818aca%26domain%3Dwww.fakingnews.com%26origin%3Dhttp%253A%252F%252Fwww.fakingnews.com%252Ff4f29317bc379%26relation%3Dparent.parent&container_width=270&hide_cover=false&href=https%3A%2F%2Fwww.facebook.com%2Ffakingnews&locale=en_GB&sdk=joey&show_facepile=true&small_header=false, line 21: ReferenceError: requireLazy is not defined
+JavaScript error: https://www.facebook.com/v2.7/plugins/page.php?adapt_container_width=true&app_id=&channel=https%3A%2F%2Fstaticxx.facebook.com%2Fconnect%2Fxd_arbiter.php%3Fversion%3D46%23cb%3Df12eabfb818aca%26domain%3Dwww.fakingnews.com%26origin%3Dhttp%253A%252F%252Fwww.fakingnews.com%252Ff4f29317bc379%26relation%3Dparent.parent&container_width=270&hide_cover=false&href=https%3A%2F%2Fwww.facebook.com%2Ffakingnews&locale=en_GB&sdk=joey&show_facepile=true&small_header=false, line 22: ReferenceError: require is not defined
+1589184211830	Marionette	INFO	Stopped listening on port 39117
